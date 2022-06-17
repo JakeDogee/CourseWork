@@ -1,0 +1,28 @@
+#myCarousel{
+  height: 700px;
+  padding-bottom: 30px;
+}
+.container.marketing{
+  margin-bottom: 80px;
+}
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #dbddf1;
+	padding: 30px 0;
+}
+.gallery img{
+	background-color: #ffffff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+.contact-us{
+  background-color: #dbddf1;
+  padding: 30px 0;
+}
